@@ -1,0 +1,17 @@
+// github tutorial
+
+
+//   git commands
+
+git init  // uss folder m git ko initialize krdiya
+
+git add .  //. 
+git commit -m 
+git push -u origin
+git pull origin 
+git clone
+
+
+
+
+ 

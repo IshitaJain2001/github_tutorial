@@ -1,0 +1,109 @@
+  let a= 10
+  let b= ++a
+  let c =  (--b)+(a++)
+  let d= (a++)+(--a)+ (b++)+(c--)
+  let e = (a++) + (b++) + (c--)+(d++)
+
+
+
+  use for loops to print table of 5
+
+  use for loop to print every 5th alternate numbers from 1-100
+
+
+
+
+
+  operators
+  arithmetic (+,-,*,/,%)
+  assignment operators (=,+=,-=)
+  comparison operators (==,===,<=,>=)
+  ternary operator
+
+
+  1. T, L, 
+  2. 1
+     22
+     333
+     4444
+ 3   d
+     cc
+     bbb
+     aaaa
+4    a
+    bbb
+   ccccc
+  ddddddd
+
+  git, github, while, do while , dynamic loops using fn , return keyword
+
+
+
+create a fn, which takes up a value as argumnet and returns it processed (multiplying by 2)
+(es6)
+create a fn which takes up a string and consoles "hello" and that word (es5)
+
+
+
+
+1
+12
+123
+1234
+
+
+a
+ab 
+abc 
+abcd 
+ 
+
+ 7899643
+ 
+
+4
+43
+432
+4321
+
+d 
+dc 
+dcb 
+dcba 
+
+Prinitng L using star pattern
+
+in range 1-100 find all the numbers divisible by 2 & 3
+
+in range print all the numbers whose sq exists within 100
+
+
+
+
+1. fibonacci series
+2. find sum of all factors of 6
+3. revise all the functions 
+4. revise what is parameter, argument, return keyword
+5. find the product of all elements of an array ([2,3,4,5,6,7])
+6. create a newArray and push in it all the elements of a pre existing array
+
+
+
+3-4 oops  (prototype, prototypal inheritance, constructor, classes)
+async javascript (event loops, fetch , GEC , promises , async await )
+scope chaining (lexical, closures)
+DOM 
+V8 engine architecture
+polyfills (map,filter,reduce)
+higher order functions, IIFEs
+
+
+
+Technical Skills-:
+
+Soft Skills-: Collaborative Projects , Leadership Skills,
+  Attention to Code Quality , Curiosity & Continuous Learning ,
+  Community Involvement , Self-Motivation & Initiative 
+
+
+  
