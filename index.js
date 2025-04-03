@@ -1378,22 +1378,25 @@
 //   console.log("document loaded")
 // })
 
-let form= document.querySelector("form")
+// let form= document.querySelector("form")
 // form.addEventListener("submit",()=>{
 //   alert("form submitted")
 // })
 
- let input = document.querySelector("input")
+//  let input = document.querySelector("input")
 
- input.addEventListener("input",(e)=>{
-  e.preventDefault()
-  console.log(e.target.value)
- })
+//  input.addEventListener("input",(e)=>{
+//   e.preventDefault()
+//   console.log(e.target.value)
+//  })
 
- function clicked(){
-  console.log("m clicked")
- }
+//  function clicked(){
+//   console.log("m clicked")
+//  }
     
+
+
+
 
      
     

@@ -5,12 +5,13 @@
 
 git init  // uss folder m git ko initialize krdiya
 
-git add .  //. 
-git commit -m 
+git add .  //. saari files track hori h 
+git commit -m "m adding file" 
 git push -u origin
 git pull origin 
 git clone
-
+git status
+git branch 
 
 
 
